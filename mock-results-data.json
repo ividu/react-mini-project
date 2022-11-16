@@ -1,0 +1,398 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "hello"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=hello",
+    "webSearchUrlPingSuffix": "DevEx,5707.1",
+    "totalEstimatedMatches": 54000000,
+    "value": [
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.0",
+        "name": "Hello Definition & Meaning - Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/hello",
+        "urlPingSuffix": "DevEx,5127.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.merriam-webster.comî€/dictionary/î€€helloî€",
+        "snippet": "The meaning of î€€HELLOî€ is an expression or gesture of greeting â€”used interjectionally in greeting, in answering the telephone, or to express surprise. How to use î€€helloî€ in a sentence.",
+        "dateLastCrawled": "2022-04-11T00:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.1",
+        "name": "HELLO! - Daily royal, celebrity, fashion, beauty ...",
+        "url": "https://www.hellomagazine.com/",
+        "urlPingSuffix": "DevEx,5153.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.hellomagazine.comî€",
+        "snippet": "î€€HELLOî€! brings you the latest celebrity & royal news from the UK & around the world, magazine exclusives, fashion, beauty, lifestyle news, celeb babies, weddings, pregnancies and more!",
+        "deepLinks": [
+          {
+            "name": "Celebrities",
+            "url": "https://www.hellomagazine.com/celebrities/",
+            "urlPingSuffix": "DevEx,5728.1"
+          },
+          {
+            "name": "Royalty",
+            "url": "https://www.hellomagazine.com/royalty/",
+            "urlPingSuffix": "DevEx,5729.1"
+          },
+          {
+            "name": "Fashion",
+            "url": "https://www.hellomagazine.com/fashion/",
+            "urlPingSuffix": "DevEx,5730.1"
+          },
+          {
+            "name": "Beauty",
+            "url": "https://www.hellomagazine.com/healthandbeauty/",
+            "urlPingSuffix": "DevEx,5731.1"
+          },
+          {
+            "name": "TV & Film",
+            "url": "https://www.hellomagazine.com/film/",
+            "urlPingSuffix": "DevEx,5732.1"
+          },
+          {
+            "name": "U.S. Edition",
+            "url": "https://www.hellomagazine.com/us/",
+            "urlPingSuffix": "DevEx,5733.1"
+          }
+        ],
+        "dateLastCrawled": "2022-04-11T22:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.2",
+        "name": "Adele - Hello - YouTube",
+        "url": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+        "urlPingSuffix": "DevEx,5185.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.youtube.comî€/watch?v=YQHsXMglC9A",
+        "snippet": "î€€Adele - I Drink Wineî€ (Live at The BRIT Awards 2022) 5:14 ...",
+        "dateLastCrawled": "2022-04-11T22:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.3",
+        "name": "Hello! | Super Simple Songs - YouTube",
+        "url": "https://www.youtube.com/watch?v=tVlcKp3bWH8",
+        "urlPingSuffix": "DevEx,5217.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.youtube.comî€/watch?v=tVlcKp3bWH8",
+        "snippet": "More great Super Simple videos in the Super Simple App for iOS http://apple.co/2nW5hPdStart off your lesson with \"î€€Helloî€!\", a fun and energetic song to talk...",
+        "dateLastCrawled": "2022-04-11T20:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.4",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/LicenseAttribution",
+            "targetPropertyName": "snippet",
+            "targetPropertyIndex": 4,
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "urlPingSuffix": "DevEx,5734.1"
+            },
+            "licenseNotice": "Text under CC-BY-SA license"
+          }
+        ],
+        "name": "Hello - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hello",
+        "urlPingSuffix": "DevEx,5239.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€en.wikipedia.orgî€/wiki/î€€Helloî€",
+        "snippet": "î€€Helloî€ is alternatively thought to come from the word hallo (1840) via hollo (also holla, holloa, halloo, halloa). The definition of hollo is to shout or an exclamation originally shouted in a hunt when the quarry was spotted:. If I fly, Marcius,/Halloo me like a hare. â€” Coriolanus (I.viii.7), William Shakespeare",
+        "dateLastCrawled": "2022-04-09T01:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.5",
+        "name": "HELLO! US Edition - Latest news and Photos",
+        "url": "https://www.hellomagazine.com/us/",
+        "urlPingSuffix": "DevEx,5260.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.hellomagazine.comî€/us",
+        "snippet": "î€€HELLO!î€ US edition brings you the latest celebrity & royal news from the US & around the world, magazine exclusives, celeb babies, weddings, pregnancies and more",
+        "dateLastCrawled": "2022-04-10T07:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.6",
+        "name": "OMFG - Hello - YouTube",
+        "url": "https://www.youtube.com/watch?v=ih2xubMaZWI",
+        "urlPingSuffix": "DevEx,5293.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.youtube.comî€/watch?v=ih2xubMaZWI",
+        "snippet": "OMFG - î€€Helloî€â¬™ FAVOURITES ON SPOTIFY â¬™â‡¥ http://mrsuicidesheep.com/favouritesMERRY CHRISTMAS!!!!Download... https://bitly.com/alexomfghelloOMFGhttps://soundcl...",
+        "dateLastCrawled": "2022-04-11T08:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.7",
+        "name": "Hello Hello! Can You Clap Your Hands? | Original Kids Song ...",
+        "url": "https://www.youtube.com/watch?v=fN1Cyr0ZK9M",
+        "urlPingSuffix": "DevEx,5325.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.youtube.comî€/watch?v=fN1Cyr0ZK9M",
+        "snippet": "Get the Super Simple App for iOS! http://apple.co/2nW5hPdHello î€€Helloî€ to everyone visiting from Leo Messi's Instagram postðŸ˜ . Use this song to say â€œî€€Helloî€!...",
+        "dateLastCrawled": "2022-04-11T08:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.8",
+        "name": "HELLO! Canada edition: Daily news, Celebrity, fashion and ...",
+        "url": "https://www.hellomagazine.com/ca/",
+        "urlPingSuffix": "DevEx,5344.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.hellomagazine.comî€/ca",
+        "snippet": "î€€HELLOî€! Canada brings you the latest celebrity & royal news from around the world, magazine exclusives, celeb babies, weddings, pregnancies and more",
+        "dateLastCrawled": "2022-04-11T08:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.9",
+        "name": "Royal News - Latest Photos & Exclusives from The Royals ...",
+        "url": "https://www.hellomagazine.com/royalty/",
+        "urlPingSuffix": "DevEx,5365.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.hellomagazine.comî€/royalty",
+        "snippet": "Royal News: Get the latest from the royals here. Photos, features & live exclusives from royalty, european & round the world at î€€HELLOî€! Magazine today",
+        "dateLastCrawled": "2022-04-10T21:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.10",
+        "name": "Get Hello! - Microsoft Store",
+        "url": "https://www.microsoft.com/en-us/p/hello/9nblggh0805c",
+        "urlPingSuffix": "DevEx,5385.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://î€€www.microsoft.comî€/en-us/p/î€€helloî€/9nblggh0805c",
+        "snippet": "î€€Helloî€! Introducing the official î€€Helloî€! and hellomagazine.com app for Windows Phone. Stay up to date wherever you are with î€€Helloî€! magazine's latest news and photos from the worlds of Celebrity, Fashion, Royalty, and Health/Beauty. With the î€€Helloî€! app, you can read hellomagazine.com's articles in full, and browse gallery photos in full screen ...",
+        "dateLastCrawled": "2022-04-10T09:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.11",
+        "name": "hello network",
+        "url": "http://www.hello.com/en/index.html",
+        "urlPingSuffix": "DevEx,5407.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "www.î€€helloî€.com",
+        "snippet": "We are pausing î€€helloî€ while we get ready to launch something even better. We have loved having you a part of this community, and we want to thank you for all you have done to make î€€helloî€ a special place. Thank you for being you. ðŸ‘‹ î€€helloî€ team. Please enter your email below to be the first one to hear about our upcoming launch.",
+        "dateLastCrawled": "2022-04-10T21:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://www.bingapis.com/api/v7/#WebPages.12",
+        "name": "HELLO | meaning in the Cambridge English Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/english/hello",
+        "urlPingSuffix": "DevEx,5426.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://dictionary.cambridge.org/dictionary/english/î€€helloî€",
+        "snippet": "î€€helloî€ definition: 1. used when meeting or greeting someone: 2. something that is said at the beginning of a phoneâ€¦. Learn more.",
+        "dateLastCrawled": "2022-04-07T22:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      }
+    ]
+  },
+  "entity": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "last_parsed": 1649416421.7362156,
+      "triggering_url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "title": "Albert Einstein",
+      "description": "Albert Einstein was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are together the two pillars of modern physics. His massâ€“energy equivalence formula math|1=E = mc2, which arises from relativity theory, has been dubbed \"the world's most famous equation\". His work is also known for its influence on the philosophy of science. He received the 1921 Nobel Prize in Physics \"for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\", a pivotal step in the development of quantum theory. His intellectual achievements and originality resulted in \"Einstein\" becoming synonymous with \"genius\".",
+      "image_url": "https://wikimedia.tempest.com/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/183px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+      "external_links": [],
+      "infobox": {
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+        "last_parsed": 1649416421.05313,
+        "category": {
+          "original": "scientist",
+          "applied": "person"
+        },
+        "rows": [
+          {
+            "label": "Name",
+            "value": {
+              "type": "text",
+              "display": "Albert Einstein"
+            }
+          },
+          {
+            "label": "Born",
+            "value": {
+              "type": "text",
+              "display": "March 14, 1879, in Ulm, Kingdom of WÃ¼rttemberg, German Empire"
+            }
+          },
+          {
+            "label": "Died",
+            "value": {
+              "type": "text",
+              "display": "April 18, 1955, in Princeton, New Jersey, U.S."
+            }
+          },
+          {
+            "label": "Education",
+            "value": {
+              "type": "list",
+              "display": "Federal polytechnic school in Zurich (Federal teaching diploma, 1900), University of Zurich (PhD, 1905)",
+              "values": [
+                {
+                  "type": "text",
+                  "display": "Federal polytechnic school in Zurich (Federal teaching diploma, 1900)"
+                },
+                {
+                  "type": "text",
+                  "display": "University of Zurich (PhD, 1905)"
+                }
+              ]
+            }
+          },
+          {
+            "label": "Known for",
+            "value": {
+              "type": "list",
+              "display": "General relativity, Special relativity, Photoelectric effect, E=mc2 (Massâ€“energy equivalence), E=hf (Planckâ€“Einstein relation), Theory of Brownian motion, Einstein field equations, Boseâ€“Einstein statistics, Boseâ€“Einstein condensate, Gravitational wave, Cosmological constant, Unified field theory, EPR paradox, Ensemble interpretation, List of other concepts",
+              "values": [
+                {
+                  "type": "link",
+                  "display": "General relativity",
+                  "url": "https://en.wikipedia.org/wiki/General_relativity"
+                },
+                {
+                  "type": "link",
+                  "display": "Special relativity",
+                  "url": "https://en.wikipedia.org/wiki/Special_relativity"
+                },
+                {
+                  "type": "link",
+                  "display": "Photoelectric effect",
+                  "url": "https://en.wikipedia.org/wiki/Photoelectric_effect"
+                },
+                {
+                  "type": "link",
+                  "display": "E=mc2 (Massâ€“energy equivalence)",
+                  "url": "https://en.wikipedia.org/wiki/Massâ€“energy_equivalence"
+                },
+                {
+                  "type": "link",
+                  "display": "E=hf (Planckâ€“Einstein relation)",
+                  "url": "https://en.wikipedia.org/wiki/Planckâ€“Einstein_relation"
+                },
+                {
+                  "type": "text",
+                  "display": "Theory of Brownian motion"
+                },
+                {
+                  "type": "link",
+                  "display": "Einstein field equations",
+                  "url": "https://en.wikipedia.org/wiki/Einstein_field_equations"
+                },
+                {
+                  "type": "link",
+                  "display": "Boseâ€“Einstein statistics",
+                  "url": "https://en.wikipedia.org/wiki/Boseâ€“Einstein_statistics"
+                },
+                {
+                  "type": "link",
+                  "display": "Boseâ€“Einstein condensate",
+                  "url": "https://en.wikipedia.org/wiki/Boseâ€“Einstein_condensate"
+                },
+                {
+                  "type": "link",
+                  "display": "Gravitational wave",
+                  "url": "https://en.wikipedia.org/wiki/Gravitational_wave"
+                },
+                {
+                  "type": "link",
+                  "display": "Cosmological constant",
+                  "url": "https://en.wikipedia.org/wiki/Cosmological_constant"
+                },
+                {
+                  "type": "link",
+                  "display": "Unified field theory",
+                  "url": "https://en.wikipedia.org/wiki/Unified_field_theory"
+                },
+                {
+                  "type": "link",
+                  "display": "EPR paradox",
+                  "url": "https://en.wikipedia.org/wiki/EPR_paradox"
+                },
+                {
+                  "type": "link",
+                  "display": "Ensemble interpretation",
+                  "url": "https://en.wikipedia.org/wiki/Ensemble_interpretation"
+                },
+                {
+                  "type": "link",
+                  "display": "List of other concepts",
+                  "url": "https://en.wikipedia.org/wiki/List_of_things_named_after_Albert_Einstein"
+                }
+              ]
+            }
+          },
+          {
+            "label": "Spouse(s)",
+            "value": {
+              "type": "list",
+              "display": "Mileva MariÄ‡ (m. 1903; div. 1919), Elsa LÃ¶wenthal (m. 1919; died 1936)",
+              "values": [
+                {
+                  "type": "text",
+                  "display": "Mileva MariÄ‡ (m. 1903; div. 1919)"
+                },
+                {
+                  "type": "text",
+                  "display": "Elsa LÃ¶wenthal (m. 1919; died 1936)"
+                }
+              ]
+            }
+          },
+          {
+            "label": "Children",
+            "value": {
+              "type": "list",
+              "display": "\"Lieserl\" Einstein, Hans Albert Einstein, Eduard \"Tete\" Einstein",
+              "values": [
+                {
+                  "type": "link",
+                  "display": "\"Lieserl\" Einstein",
+                  "url": "https://en.wikipedia.org/wiki/Lieserl_Einstein"
+                },
+                {
+                  "type": "link",
+                  "display": "Hans Albert Einstein",
+                  "url": "https://en.wikipedia.org/wiki/Hans_Albert_Einstein"
+                },
+                {
+                  "type": "link",
+                  "display": "Eduard \"Tete\" Einstein",
+                  "url": "https://en.wikipedia.org/wiki/Einstein_family#Eduard_\"Tete\"_Einstein_(Albert's_second_son)"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+@import "/src/styles/variables";
+
+.search-input {
+  position: relative;
+  width: 100%;
+
+  &__button {
+    position: absolute;
+    right: 1px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    outline: none;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 11px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.25s ease-out;
+
+    &:hover, &:focus {
+      background: $light-grey;
+    }
+
+    svg {
+      fill: #cdd1dd;
+    }
+  }
+}

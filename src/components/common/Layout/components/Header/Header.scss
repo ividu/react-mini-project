@@ -1,0 +1,175 @@
+@import "/src/styles/variables";
+
+.header {
+  &__general {
+    background: #f9f9ff;
+    border-bottom: 1px solid #cdd1dd;
+  }
+
+  &__inner {
+    position: relative;
+    padding-top: 20px;
+  }
+
+  &__main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 11px;
+
+    @media (min-width: 576px) {
+      flex-wrap: nowrap;
+    }
+  }
+
+  &__search-input {
+    max-width: 848px;
+  }
+
+  &__handlers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 848px;
+
+    @media (min-width: 576px) {
+      flex-wrap: nowrap;
+    }
+  }
+
+  &__menu-part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+
+    @media (min-width: 576px) {
+      width: auto;
+      order: 1;
+      margin-bottom: 0;
+    }
+  }
+
+  .logo-link {
+    padding-top: 3px;
+    display: inline-block;
+    margin-right: 23px;
+    margin-left: 10px;
+  }
+
+  &__options-inner {
+    display: flex;
+  }
+
+  &__tabs {
+    display: flex;
+  }
+
+  &__tab-button {
+    display: flex;
+    align-items: center;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 12px 0;
+    margin: 0 10px;
+    color: #3b425c;
+
+    svg {
+      margin-right: 10px;
+
+      path {
+        fill: #3b425c;
+      }
+    }
+
+    &:hover, &:focus {
+      color: $blue;
+
+      svg {
+        path {
+          fill: $blue;
+        }
+      }
+    }
+
+    &--active {
+      border-color: $blue;
+      color: $blue;
+
+      svg {
+        path {
+          fill: $blue;
+        }
+      }
+    }
+  }
+
+  &__main-filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+
+    @media (min-width: 576px) {
+      order: 1;
+      margin-bottom: 0;
+    }
+  }
+
+  &__filters-button {
+    padding: 7px 12px;
+    color: #80859F;
+    border: 1px solid #EAECF7;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-right: 10px;
+
+    &:hover, &:focus {
+      border-color: #80859F;
+      color: #3b425c;
+    }
+
+    &:focus {
+      color: $blue;
+    }
+  }
+
+  &__options {
+    background: $white;
+    border-bottom: 1px solid #eaecf7;
+  }
+
+  &__options-inner {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 8px;
+    padding-bottom: 7px;
+
+    @media (min-width: 768px) {
+      flex-wrap: nowrap;
+    }
+  }
+
+  &__options-select {
+    min-width: 120px;
+    margin-right: 16px;
+    margin-bottom: 8px;
+
+    @media (min-width: 768px) {
+      margin-bottom: 0;
+    }
+  }
+
+  &__options-button {
+    color: #EAECF7;
+    border: none;
+    max-width: 80px;
+
+    &:hover, &:focus {
+      color: #3b425c;
+    }
+  }
+}

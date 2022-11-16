@@ -1,0 +1,25 @@
+@import "/src/styles/variables";
+
+.footer {
+  flex: 0 0 auto;
+  background-color: #f9f9ff;
+
+  &__inner {
+    padding-top: 40px;
+    padding-bottom: 45px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  &__link {
+    width: 100%;
+
+    @media (min-width: 576px) {
+      width: auto;
+  }
+
+    &:not(:last-child) {
+      margin-right: 40px;
+    }
+  }
+}

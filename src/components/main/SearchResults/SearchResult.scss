@@ -1,0 +1,11 @@
+.search-result {
+  &__inner {
+    padding-top: 30px;
+    min-height: 300px;
+
+    @media (min-width: 1220px) {
+      position: relative;
+      padding-right: 480px;
+    }
+  }
+}

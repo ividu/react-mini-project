@@ -1,0 +1,79 @@
+@import "/src/styles/variables";
+
+.menu {
+  position: relative;
+  z-index: 1;
+
+  &__main-button {
+    border: none;
+    outline: none;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.25s ease-out;
+
+    &:hover, &:focus {
+      background: $light-grey;
+    }
+  }
+
+    &__theme-button {
+      width: 49.3%;
+      font-size: 14px;
+      padding: 12px;
+      border: none;
+      color: $white;
+      background: #5653D2;
+      border-radius: 6px;
+      display: inline-block;
+      pointer-events: none;
+      cursor: pointer;
+      transition: all 0.4s ease 0s;
+      outline: none;
+      text-decoration: none;
+      text-align: center;
+
+      &--active {
+        color: #3B425C;
+        background: $white;
+        pointer-events: all;
+      }
+    }
+
+  &__body {
+    position: absolute;
+    top: 48px;
+    right: 0;
+    border: 1px solid $light-grey;
+
+    background: $white;
+    box-shadow: 0 0 15px rgba(0,0,0,.06);
+    width: 192px;
+  }
+
+  &__section {
+    color: $grey;
+    padding: 23px 16px;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid #eef0f8;
+    }
+  }
+
+  &__title {
+    color: $dark-grey;
+    font-size: 16px;
+    line-height: 1.1;
+    margin: 0 0 6px;
+  }
+
+  &__text {
+    font-size: 12px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,33 @@
+@import "/src/styles/variables";
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow-y: scroll;
+  font-family: $font-family;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.inner {
+  width: 100%;
+  max-width: 1240px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.img {
+  max-width: 100%;
+}

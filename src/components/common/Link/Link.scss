@@ -1,0 +1,11 @@
+@import "/src/styles/variables";
+
+.link {
+  font-size: 13px;
+  color: $dark-grey;
+  text-decoration: none;
+
+  &:hover, &:focus {
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,69 @@
+@import "/src/styles/variables";
+
+.check {
+  display: flex;
+  position: relative;
+  align-items: center;
+  color: $dark-grey;
+  font-size: 14px;
+  padding-left: 30px;
+  cursor: pointer;
+
+  &__input {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+
+    &:checked + .check__box {
+      &:before {
+        content: '';
+        position: absolute;
+        top: 4px;
+        left: 9px;
+        border-right: 3px solid $blue;
+        border-bottom: 3px solid $blue;
+        transform: rotate(45deg);
+        background-image: none;
+        width: 7px;
+        height: 13px;
+      }
+    }
+
+    &:focus + .check__box {
+      border-color: $grey;
+    }
+
+    &:hover + .check__box {
+      border-color: $grey;
+    }
+
+    &:disabled + .check__box {
+      background-color: $light-grey;
+      box-shadow: none;
+      border: none;
+    }
+
+    &:checked:disabled + .check__box {
+      &:before {
+        border-color: $dark-grey;
+      }
+    }
+  }
+
+  &__box {
+    position: relative;
+    margin-left: -30px;
+    width: 26px;
+    min-width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: 1px solid $grey;
+    background-color: $white;
+  }
+
+  &__gap {
+    width: 10px;
+  }
+}
